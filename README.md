@@ -10,6 +10,7 @@
  
 ##
 
+<!--
 #### Tecnologias que eu uso: 
 <div style: "display: inline_block">
   <img pointerevents="none" align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -20,6 +21,6 @@
   
 </div>
 
-<!--
+
  <img pointerevents="none" align="center" alt="VUE" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 -->
