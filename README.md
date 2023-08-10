@@ -17,7 +17,7 @@ Hey there, I'm a Brazilian Computer Science student at UFCG. I love bringing my 
 
 ### 🧰 Toolkit
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,cs,unity,git,java)](https://github.com/JotaV-0)
+[![My Skills](https://skills.thijs.gg/icons?i=python,cs,unity,java,javascript,html,css,git)](https://github.com/JotaV-0)
  
 #
 
