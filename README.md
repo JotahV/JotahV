@@ -1,4 +1,4 @@
-# 🕹️ João Gouveia
+# 🕹️ João Victor Gouveia do Nascimento
 
 <p> 
 Hey there, I'm a Brazilian Computer Science student at UFCG. I love bringing my ideas to life, like games, applications and other things too. Thanks for visiting my github account and feel free to explore my projects.
