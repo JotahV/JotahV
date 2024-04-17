@@ -17,13 +17,13 @@ Hey there, I'm a Brazilian Computer Science student at UFCG. I love bringing my 
 
 ### 🧰 Toolkit
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,java,cpp,unity,vim,linux)](https://github.com/JotaV-0)
+[![My Skills](https://skills.thijs.gg/icons?i=python,java,cpp,unity,vim,linux)](https://github.com/joaovgouveia)
  
 #
 
 **`Computer Science Student | UFCG`**
 
 <!-- 
-[@JotaV-0](https://github.com/JotaV-0)
+[@joaovgouveia](https://github.com/joaovgouveia)
 cs,javascript,html,css,
 --!>
