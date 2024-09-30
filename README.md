@@ -17,7 +17,7 @@ Hey there, I'm a Brazilian Computer Science student at UFCG. I love bringing my 
 
 ### 🧰 Toolkit
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,clojure,vim,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,clojure,godot)](https://skillicons.dev)
  
 #
 
